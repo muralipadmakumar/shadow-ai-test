@@ -1,0 +1,26 @@
+system,reference_id,ticket_id,submitted_at,channel,ticket_text,true_resolver_group,predicted_resolver_group,confidence,gate_passed,agent_action
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041207,2026-03-02T08:14:00Z,email,VPN drops every few minutes since the client update this morning,Network & Connectivity,Network & Connectivity,0.94,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041208,2026-03-02T08:31:00Z,portal,"Cannot sign in to the finance portal, says my account is locked",Identity & Access,Identity & Access,0.91,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041211,2026-03-02T09:02:00Z,teams,Laptop fan running constantly and machine is very hot to touch,Endpoint & Hardware,Endpoint & Hardware,0.88,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041215,2026-03-02T09:20:00Z,email,Monthly sales dashboard shows blank for the EMEA region only,Data & Reporting,Business Applications,0.66,yes,overridden
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041219,2026-03-02T09:47:00Z,portal,Need access to the procurement approval workflow for my new role,Identity & Access,Identity & Access,0.93,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041224,2026-03-02T10:05:00Z,email,Received a suspicious email asking me to confirm my password,Security Incident,Security Incident,0.97,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041228,2026-03-02T10:33:00Z,teams,Meeting room screen will not detect my laptop over the cable,Telephony & Meetings,Endpoint & Hardware,0.58,no,manual triage
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041233,2026-03-02T11:01:00Z,portal,Air conditioning in the third floor server room seems to be off,Facilities (misfiled to IT),Facilities (misfiled to IT),0.71,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041237,2026-03-02T11:24:00Z,email,Expense submission fails at the final step with a generic error,Business Applications,Business Applications,0.86,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041240,2026-03-02T11:58:00Z,portal,Wifi in the north building keeps disconnecting on the guest network,Network & Connectivity,Network & Connectivity,0.9,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041244,2026-03-02T12:30:00Z,email,"Please reset multifactor authentication, I have a new phone",Identity & Access,Identity & Access,0.95,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041249,2026-03-02T13:11:00Z,teams,Quarterly report export times out after about two minutes,Data & Reporting,Data & Reporting,0.79,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041253,2026-03-02T13:40:00Z,portal,New starter needs a laptop and standard software image by Monday,Endpoint & Hardware,Endpoint & Hardware,0.84,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041257,2026-03-02T14:02:00Z,email,"Desk phone shows no line, handset is completely dead",Telephony & Meetings,Telephony & Meetings,0.87,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041262,2026-03-02T14:35:00Z,portal,Shared mailbox permissions were removed without any notice,Identity & Access,Identity & Access,0.82,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041266,2026-03-02T15:09:00Z,email,"Someone has been accessing my files, I did not share that folder",Security Incident,Identity & Access,0.61,no,manual triage
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041270,2026-03-02T15:44:00Z,teams,CRM search returns no results for any customer since this morning,Business Applications,Business Applications,0.89,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041275,2026-03-02T16:12:00Z,portal,Printer on level two jams on every duplex job,Endpoint & Hardware,Facilities (misfiled to IT),0.64,yes,overridden
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041279,2026-03-02T16:38:00Z,email,Site to site link to the Dublin office is very slow today,Network & Connectivity,Network & Connectivity,0.92,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041284,2026-03-03T08:07:00Z,portal,Payroll extract has duplicate rows for part time staff,Data & Reporting,Data & Reporting,0.77,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041288,2026-03-03T08:41:00Z,teams,"Cannot join external meetings, camera is not detected",Telephony & Meetings,Endpoint & Hardware,0.59,no,manual triage
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041293,2026-03-03T09:15:00Z,email,Contractor account still active three weeks after leaving date,Security Incident,Security Incident,0.9,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041297,2026-03-03T09:52:00Z,portal,Invoice approval screen is blank in the browser but fine on mobile,Business Applications,Business Applications,0.81,yes,accepted
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041302,2026-03-03T10:28:00Z,email,Requesting elevated database read access for the audit exercise,Identity & Access,Data & Reporting,0.63,yes,overridden
+HelixTriage,RAI-RD-20260415-helixtriage,INC0041306,2026-03-03T11:04:00Z,teams,Docking station stopped charging after the firmware update,Endpoint & Hardware,Endpoint & Hardware,0.85,yes,accepted
